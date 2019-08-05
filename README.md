@@ -1,4 +1,4 @@
-Projects
+<b>Projects</b>
 <dl>
 <dt>Spring Boot</dt>
 <dt>Spring Framework</dt>
